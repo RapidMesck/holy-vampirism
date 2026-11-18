@@ -1,0 +1,49 @@
+{
+  "text.holy_vampirism.skills.holy_hunter": "Holy Hunter",
+
+  "skill.holy_vampirism.holy_hunter_root": "Sacred Order",
+  "skill.holy_vampirism.holy_hunter_root.desc": "Embrace the Sacred Order. Hunters gain scaling Max Health, Natural Armor, Toughness, Speed, and Attack Speed as they level up.",
+
+  "skill.holy_vampirism.silver_edge": "Silver-Edged Strikes",
+  "skill.holy_vampirism.silver_edge.desc": "Attacks deal +25% bonus damage to Vampires and Undead and briefly apply Glowing and Weakness.",
+
+  "skill.holy_vampirism.holy_fervor": "Holy Fervor",
+  "skill.holy_vampirism.holy_fervor.desc": "Grants +15% Attack Speed and +15% Movement Speed. Melee critical hits against Vampires restore health.",
+
+  "skill.holy_vampirism.iron_will": "Iron Will",
+  "skill.holy_vampirism.iron_will.desc": "Grants +6 Max Health, +4 Armor, +30% Knockback Resistance, and gentle passive regeneration below 50% health.",
+
+  "skill.holy_vampirism.vampiric_ward": "Vampiric Ward",
+  "skill.holy_vampirism.vampiric_ward.desc": "Reduces incoming damage from Vampires by 20% and grants immunity to Vampire Freeze.",
+
+  "skill.holy_vampirism.undying_resolve": "Undying Resolve",
+  "skill.holy_vampirism.undying_resolve.desc": "Prevents fatal damage once every 120 seconds, restoring 35% health with powerful protective buffs and knocking back nearby foes.",
+
+  "skill.holy_vampirism.blessed_quiver": "Blessed Quiver",
+  "skill.holy_vampirism.blessed_quiver.desc": "Crossbow bolts fly 25% faster, deal +25% damage to Vampires and Undead, have a 35% chance to save ammo, and Stakes deal +15% damage.",
+
+  "skill.holy_vampirism.solar_infusion": "Solar Infusion",
+  "skill.holy_vampirism.solar_infusion.desc": "Hits against Vampires ignite them with Solar Burn (sun damage over time) and briefly apply Garlic.",
+
+  "action.holy_vampirism.hunters_surge": "Hunter's Surge",
+  "action.holy_vampirism.hunters_surge.desc": "Dash swiftly forward in a burst of holy light, gaining Speed III and brief fall damage immunity.",
+
+  "action.holy_vampirism.holy_smite": "Holy Smite",
+  "action.holy_vampirism.holy_smite.desc": "Unleash a radiant shockwave that damages Vampires and Undead, strips Vampire stealth, and empowers you with Strength II and Speed II.",
+
+  "action.holy_vampirism.sanctuary_aura": "Sanctuary Aura",
+  "action.holy_vampirism.sanctuary_aura.desc": "Emit a consecrated aura that heals yourself, allies, and villagers while searing and slowing nearby Vampires and Undead.",
+
+  "action.holy_vampirism.divine_aegis": "Divine Aegis",
+  "action.holy_vampirism.divine_aegis.desc": "Gain Absorption III, Resistance II, and Fire Resistance. Unholy attackers striking you suffer Holy thorns and debuffs.",
+
+  "action.holy_vampirism.solar_flare": "Solar Flare",
+  "action.holy_vampirism.solar_flare.desc": "Detonate artificial sunlight at your target location, dealing heavy sun damage with Garlic, Blindness, and Slowness to Vampires.",
+
+  "message.holy_vampirism.undying_resolve.triggered": "Undying Resolve saved you from death!",
+  "command.holy_vampirism.apply.success": "Applied %s Holy Vampirism balance overrides to Vampirism config.",
+  "command.holy_vampirism.status.player_only": "This command can only be run by a player.",
+  "command.holy_vampirism.status.not_hunter": "You are not currently a Vampire Hunter.",
+  "command.holy_vampirism.status.header": "Holy Hunter Status — Level %s/%s | Available Skill Points: %s",
+  "command.holy_vampirism.status.undying_resolve": "Undying Resolve Cooldown: %s"
+}

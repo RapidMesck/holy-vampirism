@@ -1,0 +1,60 @@
+{
+  "skill_tree": "holy_vampirism:holy_hunter",
+  "node": "holy_vampirism:holy_hunter/root",
+  "children": [
+    {
+      "node": "holy_vampirism:holy_hunter/silver_edge",
+      "children": [
+        {
+          "node": "holy_vampirism:holy_hunter/holy_fervor",
+          "children": [
+            {
+              "node": "holy_vampirism:holy_hunter/holy_smite",
+              "children": [
+                {
+                  "node": "holy_vampirism:holy_hunter/hunters_surge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "holy_vampirism:holy_hunter/iron_will",
+      "children": [
+        {
+          "node": "holy_vampirism:holy_hunter/vampiric_ward",
+          "children": [
+            {
+              "node": "holy_vampirism:holy_hunter/sanctuary_aura",
+              "children": [
+                {
+                  "node": "holy_vampirism:holy_hunter/divine_aegis",
+                  "children": [
+                    {
+                      "node": "holy_vampirism:holy_hunter/undying_resolve"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "holy_vampirism:holy_hunter/blessed_quiver",
+      "children": [
+        {
+          "node": "holy_vampirism:holy_hunter/solar_infusion",
+          "children": [
+            {
+              "node": "holy_vampirism:holy_hunter/solar_flare"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

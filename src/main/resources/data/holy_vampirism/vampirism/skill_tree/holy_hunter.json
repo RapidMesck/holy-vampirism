@@ -1,0 +1,20 @@
+{
+  "display": {
+    "count": 1,
+    "id": "vampirism:crucifix_ultimate"
+  },
+  "faction": {
+    "id": "vampirism:hunter"
+  },
+  "name": {
+    "translate": "text.holy_vampirism.skills.holy_hunter"
+  },
+  "unlock_predicate": {
+    "type_specific": {
+      "type": "vampirism:player_faction",
+      "faction": {
+        "id": "vampirism:hunter"
+      }
+    }
+  }
+}

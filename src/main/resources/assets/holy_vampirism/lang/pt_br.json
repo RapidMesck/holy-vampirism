@@ -1,0 +1,49 @@
+{
+  "text.holy_vampirism.skills.holy_hunter": "Caçador Sagrado",
+
+  "skill.holy_vampirism.holy_hunter_root": "Ordem Sagrada",
+  "skill.holy_vampirism.holy_hunter_root.desc": "Abrace a Ordem Sagrada. Caçadores ganham Vida Máxima, Armadura Natural, Resistência de Armadura, Velocidade e Velocidade de Ataque conforme sobem de nível.",
+
+  "skill.holy_vampirism.silver_edge": "Lâmina de Prata",
+  "skill.holy_vampirism.silver_edge.desc": "Ataques causam +25% de dano bônus contra Vampiros e Mortos-Vivos e aplicam Brilho e Fraqueza brevemente.",
+
+  "skill.holy_vampirism.holy_fervor": "Fervor Sagrado",
+  "skill.holy_vampirism.holy_fervor.desc": "Concede +15% de Velocidade de Ataque e +15% de Velocidade de Movimento. Acertos críticos corpo a corpo contra Vampiros restauram vida.",
+
+  "skill.holy_vampirism.iron_will": "Vontade de Ferro",
+  "skill.holy_vampirism.iron_will.desc": "Concede +6 de Vida Máxima, +4 de Armadura, +30% de Resistência a Repulsão e regeneração passiva abaixo de 50% de vida.",
+
+  "skill.holy_vampirism.vampiric_ward": "Proteção Antivampiro",
+  "skill.holy_vampirism.vampiric_ward.desc": "Reduz o dano recebido de Vampiros em 20% e concede imunidade ao Congelamento Vampírico.",
+
+  "skill.holy_vampirism.undying_resolve": "Determinação Imortal",
+  "skill.holy_vampirism.undying_resolve.desc": "Evita a morte uma vez a cada 120 segundos, restaurando 35% da vida com fortes bênçãos defensivas e repelindo inimigos próximos.",
+
+  "skill.holy_vampirism.blessed_quiver": "Aljava Abençoada",
+  "skill.holy_vampirism.blessed_quiver.desc": "Virotes de besta voam 25% mais rápido, causam +25% de dano a Vampiros e Mortos-Vivos, têm 35% de chance de economizar munição e Estacas causam +15% de dano.",
+
+  "skill.holy_vampirism.solar_infusion": "Infusão Solar",
+  "skill.holy_vampirism.solar_infusion.desc": "Golpes contra Vampiros aplicam Queimadura Solar (dano solar contínuo) e efeito de Alho brevemente.",
+
+  "action.holy_vampirism.hunters_surge": "Investida do Caçador",
+  "action.holy_vampirism.hunters_surge.desc": "Avance rapidamente em um lampejo de luz sagrada, ganhando Velocidade III e imunidade temporária a dano de queda.",
+
+  "action.holy_vampirism.holy_smite": "Golpe Sagrado",
+  "action.holy_vampirism.holy_smite.desc": "Libera uma onda radiante que fere Vampiros e Mortos-Vivos, revela furtividade vampírica e concede Força II e Velocidade II.",
+
+  "action.holy_vampirism.sanctuary_aura": "Aura do Santuário",
+  "action.holy_vampirism.sanctuary_aura.desc": "Emite uma aura consagrada que cura você, aliados e aldeões enquanto queima e desacelera Vampiros e Mortos-Vivos próximos.",
+
+  "action.holy_vampirism.divine_aegis": "Égide Divina",
+  "action.holy_vampirism.divine_aegis.desc": "Concede Absorção III, Resistência II e Resistência ao Fogo. Atacantes profanos sofrem espinhos sagrados e penalidades.",
+
+  "action.holy_vampirism.solar_flare": "Clarão Solar",
+  "action.holy_vampirism.solar_flare.desc": "Detona luz solar artificial no ponto mirado, causando alto dano solar com Alho, Cegueira e Lentidão em Vampiros.",
+
+  "message.holy_vampirism.undying_resolve.triggered": "Determinação Imortal salvou você da morte!",
+  "command.holy_vampirism.apply.success": "%s ajustes de balanceamento do Holy Vampirism aplicados à configuração do Vampirism.",
+  "command.holy_vampirism.status.player_only": "Este comando só pode ser executado por um jogador.",
+  "command.holy_vampirism.status.not_hunter": "Você não é um Caçador de Vampiros no momento.",
+  "command.holy_vampirism.status.header": "Status do Caçador Sagrado — Nível %s/%s | Pontos de Habilidade: %s",
+  "command.holy_vampirism.status.undying_resolve": "Recarga da Determinação Imortal: %s"
+}
